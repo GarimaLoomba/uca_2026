@@ -1,0 +1,14 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Windows thumbnail cache
+Thumbs.db
+
+# Ignore macOS files
+.DS_Store

@@ -1,0 +1,19 @@
+body {
+    color: blue;
+    margin: 10px;
+    background-color: beige;
+}
+
+table{
+    th{
+        margin: 20px;
+        padding: 5px;
+        border: 2px double;
+        border-color: black;
+    }
+
+    border : 2px double;    
+    border-color : black;
+    
+}
+

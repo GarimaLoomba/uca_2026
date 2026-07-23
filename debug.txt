@@ -1,0 +1,5 @@
+gdb --> used to debug the code 
+
+gcc -g filename 
+
+
